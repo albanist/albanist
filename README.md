@@ -3,7 +3,7 @@
 ## About me
 - Product Manager Web & AI Innovation at Umbraco.
 - Responsible for umbraco.com and all things web.
-- Driving AI adoption and innovation across the organization.
+- Building innovative experiences with AI, agentic systems, and modern web technologies.
 - Based in Sweden, Falsterbo.
 
 ## GitHub Stats
