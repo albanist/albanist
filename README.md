@@ -6,5 +6,3 @@
 - Building innovative experiences with AI, agentic systems, and modern web technologies.
 - Based in Sweden, Falsterbo.
 
-## GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=albanist&show_icons=true)
